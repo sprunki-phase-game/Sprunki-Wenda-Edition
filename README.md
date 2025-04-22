@@ -3,6 +3,8 @@
 ![logo-landscape](https://github.com/user-attachments/assets/ab5ad124-db90-4fa5-bf89-7ea6084af8ea)
 
 - Version 1: [Sprunki Wenda Edition](https://sprunki-incredibox.org/game/sprunki-wenda-edition)
+- Version 2: [Sprunki Wenda Edition](https://sprunki.la/game/sprunki-wenda-edition)
+- Version 3: [Sprunki Wenda Edition](https://scrunkly.org/game/sprunki-wenda-edition)
 
 ## Introduction to Sprunki Wenda Edition  
 **Sprunki Wenda Edition** is a groundbreaking mod for the beloved music game **Incredibox**, offering players a fresh, immersive experience that blends creativity, urban culture, and musical exploration. This mod introduces new characters, soundscapes, and elements that elevate the original gameplay, making it a must-try for fans of rhythm games and music enthusiasts alike. With its roots in hip-hop and urban aesthetics, **Sprunki Wenda Edition** stands out as a unique addition to the **Incredibox** universe, providing endless opportunities for players to craft their own musical masterpieces.
